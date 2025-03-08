@@ -4,7 +4,7 @@
 This project models the nonlinear dynamics of a 2-DOF helicopter system using a Nonlinear AutoRegressive model with eXogenous inputs (NARX) neural network. The model predicts the system's behavior based on lagged input-output features, leveraging temporal dependencies to output pitch and yaw angles.
 
 ## Colab Link
-You can access the Google Colab notebook for this project: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18yrTnYiNiKhy9AoNK7s7ZvSlULP4ShR1?usp=sharing)
+You can access the Google Colab notebook for this project: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gp0SwaDJU_nWepFkGd1MYBU1pv2_tfaQ?authuser=0#scrollTo=0llz0160HQs7)
 
 ## Data Used
 The model is trained and validated using real sequential data representing the helicopter's behavior:
